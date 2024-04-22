@@ -28,9 +28,9 @@ navbar-links:
    # Bio: "aboutme"
    Research: "research"
    CV: "https://team.inria.fr/abs/files/2021/12/CV_SARTI.pdf"
-   Publications: "publications"
-   Talks: "talks"
-   Outreach: "services"
+   Publications: "https://scholar.google.it/citations?user=OXl1IMAAAAAJ&hl=it" #"publications"
+   #Talks: "talks"
+   #Outreach: "outreach"
 
 avatar: "/img/edoardo_sarti.jpg"
 
