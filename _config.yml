@@ -6,7 +6,7 @@ plugins:
   - jekyll-seo-tag
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://anishacharya.github.io"
+url: "http://edoardosarti.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -16,8 +16,8 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Anish Acharya 
-description: "PhD Candidate @UT Austin, Previously Applied Scientist @Amazon Alexa AI"
+title: Edoardo Sarti
+description: "Permanent researcher in computational structural biology at Inria Sophia-Antipolis, France"
 # Short description of your site
 
 # --- Navigation bar options --- #
@@ -26,47 +26,14 @@ description: "PhD Candidate @UT Austin, Previously Applied Scientist @Amazon Ale
 navbar-links:
    # Bio: "bio"
    # Bio: "aboutme"
-   Resume: "https://www.wncg.org/sites/default/files/cv/CV_ANISH.pdf"
+   Research: "research"
+   CV: "https://team.inria.fr/abs/files/2021/12/CV_SARTI.pdf"
    Publications: "publications"
    Talks: "talks"
-   Press: "press"   
-   Awards: "awards"
    Outreach: "services"
-   Open Source:
-     - Embedding Compression: "https://github.com/anishacharya/Online-Embedding-Compression-AAAI-2019"
-     - BGMD: "https://github.com/anishacharya/BGMD"
-     - DeLiCoCo: "https://github.com/anishacharya/DeLiCoCo"
-     - OpenMSFTL: "https://github.com/microsoft/OpenMSFTL"
-     - Lexical Substitution: "https://anishacharya.github.io/LexSub/"
-     # - Double Descent: "https://anishacharya.github.io/double-descent/"
-   Pointers:
-     - WNCG: "http://wncg.org/people/students/anish-acharya"
-     - Dhillon Lab: "https://bigdata.oden.utexas.edu/people/"
-     # - Double Descent: "double_descent"
-     - Sanghavi Lab: "http://users.ece.utexas.edu/~sanghavi/group.html"
-     - Conf Rank: "https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence"	
-     - Conf Cal: "https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR"
-     #- Fundings: "fundings"
-#  About Me: "aboutme"
-#  Resources:
-#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#    - Learn markdown: "http://www.markdowntutorial.com/"
-#    - GitHub Pages: "https://pages.github.com/"
-#  Author's home: "http://deanattali.com"
 
-# Image to show in the navigation bar - image must be a square (width = height)
-# Remove this parameter if you don't want an image in the navbar
 avatar: "/img/edoardo_sarti.jpg"
 
-# If you want to have an image logo in the top-left corner instead of the title text,
-# then specify the following parameter
-# title-img: /path/to/image
-
-# --- Background colour/image options --- #
-
-# Personalize the colors in your website. Colour values can be any valid CSS colour
-
-navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
@@ -76,19 +43,8 @@ footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
-# Alternatively, the navbar, footer, and page background can be set to use background images
-# instead of colour
-
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
-
-# --- Footer options --- #
-
-# Change all these values or delete the ones you don't want.
-# Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Anish Acharya
+  name: Edoardo Sarti
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -96,12 +52,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "anishacharya@utexas.edu"
-  github: anishacharya
-  linkedin: anish-acharya-a98a9383
-  facebook: anish.acharya.94
-  instagram: anishacharya91
-  twitter: AnishAc10645870
+  email: "edoardo.sarti@inria.fr"
+  github: edoardosarti
+  linkedin: edoardo-sarti-b582371b2
+  twitter: EdoSarti
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -119,7 +73,6 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
   google: false
   linkedin: true
 
@@ -130,7 +83,7 @@ share-links-active:
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "51791890"
+#google_analytics: "51791890"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -162,7 +115,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Paris"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
