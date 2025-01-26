@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<br/><img src='/images/inria_banner.png'>
+<br/><img src='/images/inria_banner.jpg'>
 
 I am based at Inria d'Université Côte d'Azur, in the vibrant technopole of Sophia Antipolis (France). 
 
