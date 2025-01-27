@@ -9,18 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Current
+## Current
 ======
 
-# PhD students
+### PhD students
 
-* Ercan Seçkin. Start 2023. With Dr. Etienne Danchin and Dr. Dominique Colinet (Institut Sophia Agrobiotech).</br>_Detection, evolutionary history, and structure-function relationships of orphan genes in plant bioaggressors_ 
+* Ercan Seçkin. Start 2023. With Dr. Etienne Danchin and Dr. Dominique Colinet (Institut Sophia Agrobiotech).
+  _Detection, evolutionary history, and structure-function relationships of orphan genes in plant bioaggressors_ 
 
 
-Alumni
+## Alumni
 ======
 
-# Interns
+### Interns
 
 * Parth Patel. 2023.
 * Manpreet Singh. 2023.
