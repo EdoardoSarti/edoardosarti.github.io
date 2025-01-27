@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 ## Current
-======
 
 ### PhD students
 
@@ -18,8 +19,9 @@ redirect_from:
   _Detection, evolutionary history, and structure-function relationships of orphan genes in plant bioaggressors_ 
 
 
+------
+
 ## Alumni
-======
 
 ### Interns
 
