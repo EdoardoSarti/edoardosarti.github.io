@@ -1,30 +1,14 @@
 ---
 permalink: /
-title: "Research Interests"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<br/><img src='/images/inria_banner.jpg'>
+I am a tenured research scientist (CR) in the [ABS](https://team.inria.fr/abs/) team of Inria Université Côte d’Azur. Prior to this, I worked as a postdoctoral fellow at the Laboratory of Computational and Quantitative Biology (LCQB) at Sorbonne University (Paris, France), and in the Computational Structural Biology (CSB) Lab at NIH (Bethesda, MD, USA). 
 
-I am based at Inria d'Université Côte d'Azur, in the vibrant technopole of Sophia Antipolis (France). 
+I obtained my BSc and MSc in Physics at Università degli Studi di Milano-Bicocca (Milan, Italy), and I obtained my PhD in Molecular and Statistical Biophysics in SISSA (Trieste, Italy).
 
-Protein Structure and Function Characterization
-======
-
-<br/><img src='/images/protein_structure_banner.png'>
-
-
-Structure and Symmetry of Transmembrane Proteins
-======
-
-<br/><img src='/images/transmembrane_proteins_banner.png'>
-
-Charting Protein Evolution
-======
-
-<br/><img src='/images/protein_evolution_banner.png'>
-
-
+My research is about conceiving new algorithms for the study of the structure, dynamics, and evolution of proteins. I particularly focus on the characterization of transmembrane proteins, orphan proteins, and other classes of proteins in the twilight zone of applicability of AI-driven methods. I am also interested in foundational aspects of machine learning algorithms.
