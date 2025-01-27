@@ -23,4 +23,4 @@ Centre Inria d’Université Côte d’Azur
 
 ## Email:
 
-<img src='/images/email_es.png'>
+<img src='/images/email_es.png' width="200">
