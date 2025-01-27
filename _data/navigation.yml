@@ -11,7 +11,7 @@ main:
   - title: "Team"
     url: /team/
 
-  - software: "Software"
+  - title: "Software"
     url: /software/
 
   - title: "Teaching"
