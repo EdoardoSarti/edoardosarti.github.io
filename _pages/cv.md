@@ -9,56 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Positions
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Current: Research Scientist. ABS Research Group, Inria d'Université Côte d'Azur, Sophia Antipolis, France
+* Postdoctoral Fellow. LCQB Lab, Sorbonne Université, Paris, France
+* Teaching and Research Fellow. LCQB Lab, Sorbonne Université, Paris, France
+* Postdoctoral Fellow. CSB Lab, National Institutes of Health, Bethesda, MD, USA
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Education
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Ph.D in Molecular and Statistical Biophysics
+  2015, SISSA, Trieste, Italy
+* M.S. in Physics 
+  2011, Università degli studi di Milano-Bicocca, Milan, Italy
+* B.S. in Physics
+  2009, Università degli studi di Milano-Bicocca, Milan, Italy
+
+# Awards
+
+* 
+
+# Community Services
+
+* JOBIM
+* REBICA
+
+* Editor
+
+* CDT
+
+# Funding
+
+* 
+
+# Teaching
+
+* 
