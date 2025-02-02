@@ -6,8 +6,15 @@ redirect_from:
   - /software
 ---
 
-I am a tenured research scientist (CR) in the [ABS](https://team.inria.fr/abs/) team of Inria Université Côte d’Azur. Prior to this, I worked as a postdoctoral fellow at the Laboratory of Computational and Quantitative Biology (LCQB) at Sorbonne University (Paris, France), and in the Computational Structural Biology (CSB) Lab at NIH (Bethesda, MD, USA). 
+{% include base_path %}
 
-I obtained my BSc and MSc in Physics at Università degli Studi di Milano-Bicocca (Milan, Italy), and I obtained my PhD in Molecular and Statistical Biophysics in SISSA (Trieste, Italy).
 
-My research is about conceiving new algorithms for the study of the structure, dynamics, and evolution of proteins. I particularly focus on the characterization of transmembrane proteins, orphan proteins, and other classes of proteins in the twilight zone of applicability of AI-driven methods. I am also interested in foundational aspects of machine learning algorithms.
+
+## [EncoMPASS: Encyclopedia of Membrane Proteins Analyed by Structure and Symmetry](https://encompass.ninds.nih.gov/)
+
+EncoMPASS collects and relates the sequence, structure, ans internal and quaternary symmetries of all transmembrane proteins of known structures. 
+Taking its data from the PDB, OPM, and PDBTM, it includes several curated analyses that render the database a versatile and reliable benchmark, other than a useful resource for the molecular biologist.
+
+## [AlignMe](https://www.bioinfo.mpg.de/AlignMe/)
+
+Pairwise alignment webserver that generalizes the Waterman-Smith algorithm by allowing a diversity of data to be integrated in the form of profile scores. Especially suited for transmembrane proteins, AlignMe is able to return accurate pairwise alignment of low-similarity sequences.
