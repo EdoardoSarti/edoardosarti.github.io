@@ -12,10 +12,10 @@ redirect_from:
 
 ## Address:
 
-ABS Research Team
-Centre Inria d’Université Côte d’Azur
-2004 Rte des Lucioles
-06902 Valbonne
+ABS Research Team<br/>
+Centre Inria d’Université Côte d’Azur<br/>
+2004 Rte des Lucioles<br/>
+06902 Sophia Antipolis
 
 ## Phone:
 
