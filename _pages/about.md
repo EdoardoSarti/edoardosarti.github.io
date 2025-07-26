@@ -14,11 +14,11 @@ I obtained my BSc and MSc in Physics at Università degli Studi di Milano-Bicocc
 My research is about conceiving new algorithms for the study of the structure, dynamics, and evolution of proteins. I particularly focus on the characterization of transmembrane proteins, orphan proteins, and other classes of proteins in the twilight zone of applicability of AI-driven methods. I am also interested in foundational aspects of machine learning algorithms.
 
 
+<script src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
+<bsky-embed  
+  username="edosarti.com"
+  mode="white"
+  limit="5"  
+>  
 <h2>🔵 Follow me on Bluesky</h2>
-<iframe
-  src="https://bsky.jazco.dev/embed/@edosarti.bsky.social"
-  width="100%"
-  height="600"
-  frameborder="0"
-  scrolling="no"
-></iframe>
+</bsky-embed>
