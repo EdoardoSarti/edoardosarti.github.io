@@ -16,7 +16,7 @@ My research is about conceiving new algorithms for the study of the structure, d
 
 <script src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
 <bsky-embed  
-  username="edosarti.com"
+  username="edosarti.bsky.social"
   mode="white"
   limit="5"  
 >  
