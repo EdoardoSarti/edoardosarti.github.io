@@ -12,3 +12,13 @@ I am a tenured research scientist (CR) in the [ABS](https://team.inria.fr/abs/) 
 I obtained my BSc and MSc in Physics at Università degli Studi di Milano-Bicocca (Milan, Italy), and I obtained my PhD in Molecular and Statistical Biophysics in SISSA (Trieste, Italy).
 
 My research is about conceiving new algorithms for the study of the structure, dynamics, and evolution of proteins. I particularly focus on the characterization of transmembrane proteins, orphan proteins, and other classes of proteins in the twilight zone of applicability of AI-driven methods. I am also interested in foundational aspects of machine learning algorithms.
+
+
+<h2>🔵 Follow me on Bluesky</h2>
+<iframe
+  src="https://bsky.jazco.dev/embed/@edosarti.bsky.social"
+  width="100%"
+  height="600"
+  frameborder="0"
+  scrolling="no"
+></iframe>
